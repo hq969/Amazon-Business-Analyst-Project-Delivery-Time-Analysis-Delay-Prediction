@@ -89,7 +89,7 @@ jupyter notebook
 
 ## 👨‍💻 Author
 
-Cassie GU
+Harsh Sonkar
 
 ## 📜 License
 
